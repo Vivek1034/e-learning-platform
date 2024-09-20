@@ -33,7 +33,7 @@ We welcome contributions from the community. If you wish to contribute to this p
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Contact
-For any inquiries or suggestions, please feel free to reach out to us at [takeswapnil8@gmail.com](mailto:takeswapnil@gmail.com).
+For any inquiries or suggestions, please feel free to reach out to us at [vivkum495051@gmail.com](mailto:vivkum49051@gmail.com).
 
 
 
